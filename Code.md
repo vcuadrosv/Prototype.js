@@ -21,7 +21,7 @@ console.log(figura1.position.x);
 console.log(figura1.position.y);
 
 ```
-The first element is a **Circle shape**: Remember the Circle have a parameters (x,y, radius) (x**2 + y**2 = 1)is the equation of the  Unitary circle in basic geometry. 
+The first element is a **Circle shape**: Remember the Circle have a parameters (x,y, radius) (x^2+ y^2 = 1)is the equation of the  Unitary circle in basic geometry. 
 ```
 function Circle(x,y,radius){
     Shape.call(this,x,y);
