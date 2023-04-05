@@ -1,6 +1,7 @@
 What is a Prototype in JavaScritp? 
 
-In my opinion the prototype evidence a JSON or a  Object, which are colection not ordered of <name>:<value>. The function prototype is necesary for call object in Javascrip, that is to say a JSON, in all shap. A example that is watching in internet is: 
+In my opinion the prototype evidence a JSON or a  Object, which are colection not ordered of (name):(value)
+The function prototype is necesary for call object in Javascrip, that is to say a JSON, in all shap. A example that is watching in internet is: 
 
 function Person(name,age){
     this.name = name;
