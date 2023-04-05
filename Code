@@ -1,6 +1,5 @@
 Now lets try the function prototype in geometry elements. Monstly we give a function Shape which will have two variables (x,y)
-
-
+```
 function Shape(x,y){
     this.position = {x,y};
 
@@ -8,3 +7,4 @@ function Shape(x,y){
 Shape.prototype.move = function (x,y){
     this.position.x += x;
     this.position.y += y;
+```
